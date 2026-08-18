@@ -1,5 +1,7 @@
 Predictive Maintenance Machine Learning Pipeline
+
 Project Summary
+
 Developed an end-to-end machine learning system and real-time telemetry simulator to predict, diagnose, and prevent industrial equipment failures, minimizing unplanned operational downtime.
 Multi-Model Development: Built and compared baseline Logistic Regression, Random Forest, and XGBoost gradient boosting classifiers to predict multi-class mechanical failure modes (Heat Dissipation, Overstrain, and Tool Wear) with high predictive accuracy.
 
